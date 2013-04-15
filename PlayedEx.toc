@@ -1,0 +1,8 @@
+## Interface: 30200
+## Title: PlayedEx
+## Author: Chen Gang
+## Notes: Command "/played" extanded, log your played time
+## Version: 1.0
+## SavedVariables: PlayedExDB
+
+PlayedEx.lua
